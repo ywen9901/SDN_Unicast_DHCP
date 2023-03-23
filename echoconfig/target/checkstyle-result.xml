@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.10">
+<file name="/home/lauren/Downloads/Lab4/echoconfig/src/main/java/nctu/winlab/echoconfig/AppComponent.java">
+</file>
+<file name="/home/lauren/Downloads/Lab4/echoconfig/src/main/java/nctu/winlab/echoconfig/package-info.java">
+</file>
+<file name="/home/lauren/Downloads/Lab4/echoconfig/src/main/java/nctu/winlab/echoconfig/NameConfig.java">
+</file>
+<file name="/home/lauren/Downloads/Lab4/echoconfig/src/test/java/nctu/winlab/echoconfig/AppComponentTest.java">
+</file>
+</checkstyle>
